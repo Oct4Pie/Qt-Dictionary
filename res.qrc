@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="dict">resources/dict.txt</file>
+        <file alias="style">resources/style.qss</file>
+        <file alias="swap-icon">resources/swap-horizontal.svg</file>
+        <file alias="magnify">resources/magnify.svg</file>
+    </qresource>
+</RCC>
